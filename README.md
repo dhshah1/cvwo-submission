@@ -5,6 +5,8 @@
 
 ### Matriculation Number : A0214635J
 
+# Link to Deployment : https://task-manager-cvwo-frontend.herokuapp.com/
+
 ## Cloning Steps
 The frontend and backend were set up as two seperate repos,
 so they are added as submodules in this repo.
