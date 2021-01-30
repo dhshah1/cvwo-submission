@@ -4,3 +4,9 @@
 [submodule "todo-backend"]
 	path = todo-backend
 	url = https://github.com/dhshah1/todo-backend
+[submodule "todo-backend-final"]
+	path = todo-backend-final
+	url = https://github.com/dhshah1/todo-backend
+[submodule "todo-frontend-final"]
+	path = todo-frontend-final
+	url = https://github.com/dhshah1/todo-frontend
